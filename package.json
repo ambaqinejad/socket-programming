@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node app.js"
   },
+  "engines": {
+    "node": "14.15.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ambaqinejad/Amir_Hosein_Baqinejad_Qazvini_hw21_maktab45.git"
